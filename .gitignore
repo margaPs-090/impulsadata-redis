@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+redis-env/
+.venv/
+
+# Variables de entorno locales
+.env
+
+# Editor
+.vscode/
+.idea/

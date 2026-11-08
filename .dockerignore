@@ -1,0 +1,17 @@
+.git
+.gitignore
+.dockerignore
+README.md
+
+# Python
+__pycache__
+*.pyc
+
+# Entornos virtuales
+redis-env
+.venv
+.env
+
+# Editor
+.vscode
+.idea
